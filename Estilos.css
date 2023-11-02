@@ -3,4 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    font-size:medium;
+}
+h1{
+    text-align: center;
+    font-size: 6em;
+}
+section{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+button{
+    font-size: 2em;
+    display: block;
+    padding: 1%;
+    margin: 1%;
+}
